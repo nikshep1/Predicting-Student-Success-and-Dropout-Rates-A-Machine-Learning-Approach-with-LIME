@@ -38,7 +38,7 @@ This project investigates how machine learning models, such as Logistic Regressi
 **2. Navigate to the project direxctory:**
    cd ml-student-success-prediction
 
-**3. Install dependencies**
+**3. Install dependencies:**
    pip install -r requirements.txt
 
 ## Usage 
