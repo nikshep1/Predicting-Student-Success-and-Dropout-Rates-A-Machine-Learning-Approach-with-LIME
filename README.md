@@ -14,7 +14,6 @@ This repository contains the implementation and analysis for the dissertation: *
 7. [Dataset](#dataset)
 8. [Limitations and Future Work](#limitations-and-future-work)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ---
 
@@ -72,8 +71,8 @@ LIME identified potential biases in demographic features such as Nationality and
 **Dynamic Updates:** Enable real-time model updates for current predictions.  
 **Model Diversity:** Test advanced algorithms like XGBoost or Neural Networks.  
 **Additional Features:** Integrate data like extracurriculars and attendance.  
+
 ## Contributing
 Contributions are welcome! Fork the repo, create a branch, commit your changes, and open a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
