@@ -32,13 +32,13 @@ This project investigates how machine learning models, such as Logistic Regressi
 ---
 
 ## Installation
-1. Clone the repository:
+**1. Clone the repository:**
    git clone https://github.com/username/ml-student-success-prediction.git
 
-2. Navigate to the project direxctory:
+**2. Navigate to the project direxctory:**
    cd ml-student-success-prediction
 
-3. Install dependencies
+**3. Install dependencies**
    pip install -r requirements.txt
 
 ## Usage 
